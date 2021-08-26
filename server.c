@@ -10,6 +10,7 @@
 #define CAN_SERVICE "CAN_SERVICE" 
 #define NUM_OF_CPU 5
 
+/* master */
 struct var
 {
 	char time[50];
